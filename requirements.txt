@@ -1,0 +1,6 @@
+websocket-client
+numpy
+flask
+flask-socketio
+werkzeug
+pandas
