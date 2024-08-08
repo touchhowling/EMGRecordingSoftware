@@ -29,6 +29,9 @@ This software is designed to receive EMG data through an ESP via WebSocket. Afte
     ```
 3. Ensure you are connected to the ESP Wi-Fi named `multiemg` to receive data. Without this connection, labelling will not be possible.
 
+## Use Cases
+- Required for recording raw data [Emg Fingers Classification](https://github.com/touchhowling/EMGFingersClassification)
+
 ## Active Issue
 - You need to run the app every time for a new recording. This could potentially be solved by threading.
 
